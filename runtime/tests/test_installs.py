@@ -19,6 +19,7 @@ packages = [
     # ADD ADDITIONAL REQUIREMENTS BELOW HERE #
     ##########################################
     "keras"
+    "statsmodels"
 ]
 
 for package in packages:
